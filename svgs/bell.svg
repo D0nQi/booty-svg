@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="bell.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path830-7-2"
+       style="fill:#000000;stroke-width:37.6978;stop-color:#000000"
+       d="M 149.97033,9.1495864e-6 A 15.192717,15.192717 0 0 0 134.80728,15.192727 v 8.718006 C 83.853112,31.713986 44.079,78.143307 40.41659,135.60095 c -0.304799,4.78182 -0.594919,12.54454 -1.035597,17.31437 -6.923834,74.94226 -16.052601,78.556 -24.726742,96.83873 -4.022532,8.47842 1.12761,16.06215 9.795149,16.06215 h 91.36698 a 34.183614,34.183614 0 0 0 33.95513,34.18361 34.183614,34.183614 0 0 0 0.22849,0 34.183614,34.183614 0 0 0 34.18361,-34.18361 h 91.36698 c 8.66754,0 13.81769,-7.58373 9.79516,-16.06215 -8.67415,-18.28273 -17.80292,-21.89647 -24.72674,-96.83873 -0.44068,-4.76983 -0.7308,-12.53255 -1.0356,-17.31437 C 255.92099,78.143307 216.14689,31.713986 165.19272,23.910733 V 15.192727 A 15.192717,15.192717 0 0 0 150,9.1495864e-6 a 15.192717,15.192717 0 0 0 -0.0296,0 z" />
+  </g>
+</svg>

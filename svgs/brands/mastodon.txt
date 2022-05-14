@@ -1,0 +1,3 @@
+Source: https://github.com/mastodon/joinmastodon/blob/master/public/press-kit.zip
+
+Guidelines: https://github.com/mastodon/joinmastodon/blob/master/public/press-kit.zip -> Logotypes.pdf

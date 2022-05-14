@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 79.374998 79.375002"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="lock.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="175.14468"
+     inkscape:cy="109.69132"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid850" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect847"
+       style="fill:#000000;stroke:none;stroke-width:9.86468"
+       transform="scale(0.26458333)"
+       d="M 150,0 C 75,0 40.000004,33.485476 40,78.539062 39.999996,104.9997 40,160 40,160 h 40 c 0,0 -4e-6,-43.88623 0,-65 0,-35.949679 22.27273,-62.669922 70,-62.669922 47.72727,0 70,26.720243 70,62.669922 0,21.11377 0,65 0,65 h 40 c 0,0 0,-55.0003 0,-81.460938 C 260,33.485476 225,0 150,0 Z M 36.377953,160 H 263.62205 C 272.69544,160 280,168.42834 280,178.89764 V 281.10237 C 280,291.57166 272.69544,300 263.62205,300 H 36.377953 C 27.304567,300 20,291.57166 20,281.10237 V 178.89764 C 20,168.42834 27.304567,160 36.377953,160 Z" />
+  </g>
+</svg>

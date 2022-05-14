@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="smilie-sad.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path830-2"
+       style="fill:#000000;fill-opacity:1;stroke-width:33.0355;stop-color:#000000"
+       d="M 150,0 A 150,150 0 0 0 0,150 150,150 0 0 0 150,300 150,150 0 0 0 300,150 150,150 0 0 0 150,0 Z m -47,91 a 20,20 0 0 1 20,20 20,20 0 0 1 -20,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-20 z m 94,0 a 20,20 0 0 1 20,20 20,20 0 0 1 -20,20 20,20 0 0 1 -20,-20 20,20 0 0 1 20,-20 z m -47.06836,95.44727 c 13.7403,0.0282 27.17213,3.0303 39.48633,8.24609 9.7711,4.1509 18.82621,9.45995 27.19141,15.48828 6.31669,4.55203 7.39074,12.34674 3.30664,17.19336 -4.1056,4.87205 -11.48221,5.31069 -16.78321,1.47656 -7.1979,-5.2062 -14.73326,-9.67291 -22.63476,-12.95898 -9.8183,-4.09797 -20.26902,-6.49971 -30.54102,-6.44531 -10.2683,-0.0324 -20.71174,2.38976 -30.52734,6.49804 -7.9345,3.30995 -15.50082,7.80393 -22.728518,13.03907 -5.3012,3.83974 -12.678956,3.4041 -16.785156,-1.4668 -4.0849,-4.84553 -3.014278,-12.63739 3.294922,-17.19141 8.3908,-6.05661 17.472792,-11.39451 27.275392,-15.57031 12.2967,-5.22395 25.71271,-8.25009 39.44531,-8.30859 z" />
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="282.853"
+   height="300"
+   viewBox="0 0 74.838187 79.375002"
+   version="1.1"
+   id="svg868"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="shield.svg">
+  <defs
+     id="defs862" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="373.30022"
+     inkscape:cy="249.5275"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata865">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g905-7"
+       transform="matrix(-0.90053385,0,0,0.90053385,78.213422,-78.08077)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         id="rect900-8"
+         style="fill:#000000;fill-opacity:1;stroke:#eb0000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 45.30016,86.704981 c 1.110866,0 2.169046,0.208461 3.296829,0.678431 L 81.53829,101.11071 c 2.747748,1.14504 5.31394,3.20805 5.31394,5.67717 0,6.03513 -1.870886,18.47929 -1.870886,18.47929 H 45.30016 Z m 0,88.142149 v -49.57996 h 39.681184 c 0,0 -3.413196,30.46626 -34.357242,47.9341 -2.951696,1.66623 -4.839516,1.64586 -5.323942,1.64586 z m 0,-88.142149 c -1.110866,0 -2.169045,0.208461 -3.296828,0.678431 L 9.0620302,101.11071 c -2.7477478,1.14504 -5.3139394,3.20805 -5.3139394,5.67717 0,6.03513 1.870886,18.47929 1.870886,18.47929 H 45.30016 Z m 0,88.142149 V 125.26717 H 5.6189768 c 0,0 3.4131952,30.46626 34.3572422,47.9341 2.951696,1.66623 4.839515,1.64586 5.323941,1.64586 z" />
+    </g>
+  </g>
+</svg>

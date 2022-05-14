@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="alarm-clock.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1041-0-0-6-1"
+       style="opacity:0.99;fill:#000000;fill-opacity:1;stroke-width:29.4633;stop-color:#000000"
+       d="m 180.46057,25.57255 c 18.99328,-27.1252104 56.3797,-33.7174404 83.5049,-14.72417 27.12521,18.99327 33.71737,56.37945 14.72407,83.50465 z M 21.310415,94.35329 C 2.3171452,67.22807 8.9093852,29.84166 36.034595,10.84838 63.159775,-8.1448904 100.54595,-1.5526604 119.53921,25.57257 Z M 149.35475,49.26707 a 119.91534,119.91534 0 0 0 -119.915345,119.91534 119.91534,119.91534 0 0 0 29.23149,78.46023 l -24.42807,24.42594 c -6.40572,6.4057 -6.40572,16.72141 0,23.12713 6.40573,6.40572 16.72142,6.40572 23.12714,0 l 25.93126,-25.93126 a 119.91534,119.91534 0 0 0 66.053525,19.8333 119.91534,119.91534 0 0 0 66.05351,-19.8333 l 25.93127,25.93126 c 6.40571,6.40572 16.72141,6.40572 23.12713,0 6.40573,-6.40572 6.40573,-16.72143 0,-23.12713 L 240.0386,247.64264 A 119.91534,119.91534 0 0 0 269.27009,169.18241 119.91534,119.91534 0 0 0 149.35475,49.26707 Z m 0,27.97954 c 6.64331,0 11.99153,5.34822 11.99153,11.99153 v 73.07341 l 35.58283,20.54443 c 5.75329,3.32166 7.7099,10.62651 4.38825,16.37977 -3.32166,5.75328 -10.62651,7.71202 -16.37979,4.39036 l -41.54026,-23.98306 c -3.55926,-2.08951 -5.66201,-5.99435 -6.0341,-10.46064 V 89.23814 c 0,-6.64331 5.34823,-11.99153 11.99154,-11.99153 z" />
+  </g>
+</svg>

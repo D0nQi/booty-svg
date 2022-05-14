@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="folder-check.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect854"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect975"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect830-57-2"
+       style="fill:#000000;stroke-width:28.8541;stop-color:#000000"
+       d="M 20 25 A 8.0901699 8.0901699 0 0 0 12.763672 29.472656 L 2.2363281 50.527344 A 21.18034 21.18034 0 0 0 0 60 L 0 260 A 15 15 0 0 0 15 275 L 285 275 A 15 15 0 0 0 300 260 L 300 70 A 15 15 0 0 0 285 55 L 155 55 A 8.0901699 8.0901699 0 0 1 147.76367 50.527344 L 137.23633 29.472656 A 8.0901699 8.0901699 0 0 0 130 25 L 20 25 z M 208.33594 102.69336 C 210.25308 102.69336 212.16967 103.42747 213.63867 104.89648 L 227.78125 119.03711 C 230.7193 121.97514 230.7193 126.7065 227.78125 129.64453 L 132.32227 225.10352 C 131.03687 226.3889 129.4077 227.11276 127.73633 227.27344 C 127.02002 227.3423 126.29632 227.30764 125.58789 227.16992 C 125.11561 227.07811 124.65049 226.93949 124.19922 226.75586 C 123.97358 226.66405 123.75096 226.56203 123.5332 226.44727 C 123.31544 226.3325 123.10266 226.20608 122.89453 226.06836 C 122.6864 225.93064 122.48386 225.78177 122.28711 225.62109 C 122.09036 225.46042 121.89847 225.28714 121.71484 225.10352 L 72.21875 175.60742 C 69.28075 172.66939 69.28075 167.93803 72.21875 165 L 86.361328 150.85742 C 89.299378 147.91939 94.028747 147.91939 96.966797 150.85742 L 127.01953 180.91016 L 203.0332 104.89648 C 204.50223 103.42747 206.41879 102.69336 208.33594 102.69336 z " />
+  </g>
+</svg>

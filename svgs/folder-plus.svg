@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="folder-plus.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect975"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,5,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect830-57-2"
+       style="fill:#000000;stroke-width:28.8541;stop-color:#000000"
+       d="M 20 25 A 8.0901699 8.0901699 0 0 0 12.763672 29.472656 L 2.2363281 50.527344 A 21.18034 21.18034 0 0 0 0 60 L 0 260 A 15 15 0 0 0 15 275 L 285 275 A 15 15 0 0 0 300 260 L 300 70 A 15 15 0 0 0 285 55 L 155 55 A 8.0901699 8.0901699 0 0 1 147.76367 50.527344 L 137.23633 29.472656 A 8.0901699 8.0901699 0 0 0 130 25 L 20 25 z M 141 97.5 L 159 97.5 C 162.7395 97.5 165.75 100.5105 165.75 104.25 L 165.75 149.25 L 210.75 149.25 C 214.4895 149.25 217.5 152.26049 217.5 156 L 217.5 174 C 217.5 177.7395 214.4895 180.75 210.75 180.75 L 165.75 180.75 L 165.75 225.75 C 165.75 229.4895 162.7395 232.5 159 232.5 L 141 232.5 C 137.2605 232.5 134.25 229.4895 134.25 225.75 L 134.25 180.75 L 89.25 180.75 C 85.5105 180.75 82.5 177.7395 82.5 174 L 82.5 156 C 82.5 152.26049 85.5105 149.25 89.25 149.25 L 134.25 149.25 L 134.25 104.25 C 134.25 100.5105 137.2605 97.5 141 97.5 z " />
+  </g>
+</svg>

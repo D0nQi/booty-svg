@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="cloud-plus.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect868"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,25,0,1 @ F,0,1,1,0,5,0,1 @ F,0,0,1,0,25,0,1 @ F,0,1,1,0,5,0,1 @ F,0,0,1,0,25,0,1 @ F,0,1,1,0,5,0,1 @ F,0,0,1,0,25,0,1 @ F,0,1,1,0,5,0,1 @ F,0,0,1,0,25,0,1 @ F,0,1,1,0,5,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="5"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1263"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,13,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="13"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1191"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,25,0,1 @ F,0,1,1,0,5,0,1 @ F,0,0,1,0,25,0,1 @ F,0,1,1,0,5,0,1 @ F,0,0,1,0,25,0,1 @ F,0,1,1,0,5,0,1 @ F,0,0,1,0,25,0,1 @ F,0,1,1,0,5,0,1 @ F,0,0,1,0,25,0,1 @ F,0,1,1,0,5,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="5"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="159.11935"
+     inkscape:cy="149.84633"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid831" />
+    <sodipodi:guide
+       position="195,150"
+       orientation="0,-1"
+       id="guide833" />
+    <sodipodi:guide
+       position="150,210"
+       orientation="1,0"
+       id="guide835" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:description>40%</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path847"
+       style="fill:#000000;stroke-width:19.656;stop-color:#000000"
+       d="M 119.25 44.375 A 75 72.875 0 0 0 44.25 117.25 A 75 72.875 0 0 0 44.591797 124.20508 A 67.75 67.75 0 0 0 0 187.875 A 67.75 67.75 0 0 0 62.59375 255.42773 L 62.59375 255.625 L 238 255.625 L 238 255.61914 A 62.75 62.75 0 0 0 300 192.875 A 62.75 62.75 0 0 0 253.4375 132.25 A 45.25 44.625 0 0 0 255.25 119.75 A 45.25 44.625 0 0 0 210 75.125 A 45.25 44.625 0 0 0 185.15039 82.457031 A 75 72.875 0 0 0 119.25 44.375 z M 142 110 L 158 110 C 161.324 110 164 112.676 164 116 L 164 156 L 204 156 C 207.324 156 210 158.676 210 162 L 210 178 C 210 181.324 207.324 184 204 184 L 164 184 L 164 224 C 164 227.324 161.324 230 158 230 L 142 230 C 138.676 230 136 227.324 136 224 L 136 184 L 96 184 C 92.676 184 90 181.324 90 178 L 90 162 C 90 158.676 92.676 156 96 156 L 136 156 L 136 116 C 136 112.676 138.676 110 142 110 z " />
+  </g>
+</svg>

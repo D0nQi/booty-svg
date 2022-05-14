@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="circle-times.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path833"
+       style="fill:#000000;stroke-width:29.7818;stop-color:#000000"
+       d="M 150 0 A 150 150 0 0 0 0 150 A 150 150 0 0 0 150 300 A 150 150 0 0 0 300 150 A 150 150 0 0 0 150 0 z M 101.20898 75.230469 C 103.50956 75.230469 105.81139 76.112185 107.57422 77.875 L 150 120.30078 L 192.42578 77.875 C 195.95144 74.34937 201.6287 74.34937 205.1543 77.875 L 222.125 94.845703 C 225.65066 98.371343 225.65066 104.04859 222.125 107.57422 L 179.69922 150 L 222.125 192.42578 C 225.65066 195.95142 225.65066 201.62867 222.125 205.1543 L 205.1543 222.125 C 201.6287 225.65064 195.95144 225.65064 192.42578 222.125 L 150 179.69922 L 107.57422 222.125 C 104.04856 225.65064 98.371303 225.65064 94.845703 222.125 L 77.875 205.1543 C 74.3494 201.62867 74.3494 195.95142 77.875 192.42578 L 120.30078 150 L 77.875 107.57422 C 74.3494 104.04859 74.3494 98.371343 77.875 94.845703 L 94.845703 77.875 C 96.608503 76.112185 98.908411 75.230469 101.20898 75.230469 z " />
+  </g>
+</svg>

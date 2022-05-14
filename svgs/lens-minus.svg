@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300.00001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="lens-minus.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-1.9621551"
+     inkscape:cy="105.82357"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="5112"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path842"
+       style="fill:#000000;fill-opacity:1;stroke-width:4.76509;stop-color:#000000"
+       d="m 74.000281,100.00028 h 71.999999 c 2.216,0 4,1.784 4,4 v 10.66666 c 0,2.216 -1.784,4 -4,4 H 74.000281 c -2.216,0 -4,-1.784 -4,-4 v -10.66666 c 0,-2.216 1.784,-4 4,-4 z M 110.00028,2.8225e-4 A 110,110 0 0 0 2.8125e-4,110.00028 a 110,110 0 0 0 109.99999875,110 110,110 0 0 0 68.84766,-24.21094 c 0.44239,9.30881 3.24924,21.66332 7.97461,26.38867 l 72.26953,72.26954 c 7.4029,7.40289 19.32364,7.40289 26.72656,0 l 8.62891,-8.62891 c 7.40289,-7.40292 7.40289,-19.32366 0,-26.72656 l -72.26954,-72.26953 c -4.72535,-4.72537 -17.07986,-7.53222 -26.38867,-7.97461 a 110,110 0 0 0 24.21094,-68.84766 110,110 0 0 0 -110,-109.99999775 z m -0.0215,36.60742275 a 73.392853,73.392853 0 0 1 0.0215,0 73.392853,73.392853 0 0 1 73.39258,73.392575 73.392853,73.392853 0 0 1 -73.39258,73.39258 A 73.392853,73.392853 0 0 1 36.607701,110.00028 73.392853,73.392853 0 0 1 109.9788,36.607705 Z" />
+  </g>
+</svg>

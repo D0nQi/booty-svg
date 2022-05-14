@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="circle-music.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path833"
+       style="fill:#000000;stroke-width:29.7818;stop-color:#000000"
+       d="M 150 0 A 150 150 0 0 0 0 150 A 150 150 0 0 0 150 300 A 150 150 0 0 0 300 150 A 150 150 0 0 0 150 0 z M 216.23438 69.470703 C 217.90887 69.507939 219.54281 70.653344 219.5293 72.330078 L 219.4082 87.339844 L 219.4082 179.32617 A 24.45709 33.41064 61.802549 0 1 197.79297 209.75 A 24.45709 33.41064 61.802549 0 1 157.79688 202.01172 A 24.45709 33.41064 61.802549 0 1 177.83398 165.02734 A 24.45709 33.41064 61.802549 0 1 200.88867 161.04883 L 200.88867 94.189453 L 127.69727 107.43945 L 127.69727 195.76758 A 24.45709 33.41064 61.802549 0 1 106.08203 226.17383 A 24.45709 33.41064 61.802549 0 1 66.085938 218.43555 A 24.45709 33.41064 61.802549 0 1 86.123047 181.45117 A 24.45709 33.41064 61.802549 0 1 109.17773 177.4707 L 109.17773 91.255859 C 109.17773 90.13031 109.79962 89.16575 110.71289 88.652344 C 111.2019 88.150846 111.84202 87.787638 112.58789 87.65625 L 215.51758 69.525391 C 215.75372 69.483794 215.99516 69.465384 216.23438 69.470703 z " />
+  </g>
+</svg>

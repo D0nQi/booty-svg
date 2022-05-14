@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="calendar-trash.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1263"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,13,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="13"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="81.262458"
+     inkscape:cy="73.013039"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid834" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path876-5"
+       style="fill:#000000;fill-opacity:1;stroke-width:26.0025;stop-color:#000000"
+       d="M 75 0 C 66.69 0 60 6.69 60 15 L 60 45 C 60 53.31 66.69 60 75 60 C 83.31 60 90 53.31 90 45 L 90 15 C 90 6.69 83.31 0 75 0 z M 225 0 C 216.69 0 210 6.69 210 15 L 210 45 C 210 53.31 216.69 60 225 60 C 233.31 60 240 53.31 240 45 L 240 15 C 240 6.69 233.31 0 225 0 z M 15 30 C 6.69 30 0 36.690001 0 45 L 0 285 C 0 293.31 6.69 300 15 300 L 285 300 C 293.31 300 300 293.31 300 285 L 300 45 C 300 36.690001 293.31 30 285 30 L 250 30 L 250 45 C 250 58.677028 238.67703 70 225 70 C 211.32297 70 200 58.677028 200 45 L 200 30 L 100 30 L 100 45 C 100 58.677028 88.67703 70 75 70 C 61.32297 70 50 58.677028 50 45 L 50 30 L 15 30 z M 126.375 112.5 L 173.625 112.5 C 177.34865 112.5 177.22461 123.07422 177.22461 123.07422 L 202.19922 123.07422 C 205.93872 123.07422 208.94922 126.08472 208.94922 129.82422 L 208.94922 134.32422 C 208.94922 138.06372 205.93872 141.07422 202.19922 141.07422 L 97.800781 141.07422 C 94.061281 141.07422 91.050781 138.06372 91.050781 134.32422 L 91.050781 129.82422 C 91.050781 126.08472 94.061281 123.07422 97.800781 123.07422 L 122.77539 123.07422 C 122.77539 123.07422 122.65135 112.5 126.375 112.5 z M 99.375 148.5 L 200.625 148.5 L 195.5918 240.75977 A 7.128216 7.128216 0 0 1 188.47461 247.5 L 111.52539 247.5 A 7.128216 7.128216 0 0 1 104.4082 240.75977 L 99.375 148.5 z " />
+  </g>
+</svg>

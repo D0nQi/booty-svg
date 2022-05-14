@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="cloud-arrow-down.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="197.77829"
+     inkscape:cy="184.00187"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path847"
+       style="fill:#000000;stroke-width:19.656;stop-color:#000000"
+       d="M 119.25 44.375 A 75 72.875 0 0 0 44.25 117.25 A 75 72.875 0 0 0 44.591797 124.20508 A 67.75 67.75 0 0 0 0 187.875 A 67.75 67.75 0 0 0 62.59375 255.42773 L 62.59375 255.625 L 238 255.625 L 238 255.61914 A 62.75 62.75 0 0 0 300 192.875 A 62.75 62.75 0 0 0 253.4375 132.25 A 45.25 44.625 0 0 0 255.25 119.75 A 45.25 44.625 0 0 0 210 75.125 A 45.25 44.625 0 0 0 185.15039 82.457031 A 75 72.875 0 0 0 119.25 44.375 z M 143.81641 95.226562 L 156.18555 95.226562 C 158.6981 95.226562 160.7207 97.559173 160.7207 100.45703 L 160.7207 164.73633 C 169.21686 165.19083 176.5265 166.18966 179.44141 167.86133 C 181.08861 172.43231 157.73769 225.66276 149.95898 232.77148 C 146.02096 232.29919 121.42874 179.97828 120.47461 167.86133 C 121.37716 166.24652 129.39387 165.13759 139.2793 164.67969 L 139.2793 100.45703 C 139.2793 97.559173 141.30386 95.226562 143.81641 95.226562 z " />
+  </g>
+</svg>

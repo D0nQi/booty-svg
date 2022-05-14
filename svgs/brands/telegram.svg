@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="telegram.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artboard</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="1.008"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+  <title
+     id="title2">Artboard</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs11" />
+  <path
+     id="Oval"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.3"
+     d="M 150,0 A 150,150 0 0 0 0,150 150,150 0 0 0 150,300 150,150 0 0 0 300,150 150,150 0 0 0 150,0 Z m 61.32949,90.301173 c 1.24086,-0.02187 4.01532,0.285459 5.8125,1.74375 1.51751,1.23135 1.93477,2.894847 2.13457,4.062303 0.1998,1.167456 0.44856,3.827028 0.25078,5.905084 -2.25738,23.71854 -12.02471,81.2772 -16.99394,107.84238 -2.10267,11.24072 -6.24276,15.00967 -10.25098,15.37851 -8.71078,0.80158 -15.32588,-5.75706 -23.76269,-11.2875 -13.20195,-8.65404 -20.65983,-14.04118 -33.47461,-22.48593 -14.8097,-9.75937 -5.20915,-15.12312 3.23086,-23.88926 2.20878,-2.29414 40.5886,-37.20367 41.33144,-40.37051 0.0929,-0.39607 0.17922,-1.87239 -0.69785,-2.65195 -0.87707,-0.77957 -2.17192,-0.51319 -3.10605,-0.30118 -1.32411,0.30053 -22.41424,14.24085 -63.27071,41.82012 -5.9864,4.11073 -11.4086,6.11375 -16.266794,6.00879 -5.355771,-0.11571 -15.658056,-3.02822 -23.316798,-5.51777 -9.393762,-3.05354 -16.860081,-4.66844 -16.20996,-9.8543 0.338622,-2.70112 4.058427,-5.46318 11.159178,-8.28691 43.728044,-19.05162 72.887244,-31.61152 87.476954,-37.67989 41.65659,-17.326414 50.31232,-20.336353 55.9541,-20.435737 z" />
+</svg>

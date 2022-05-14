@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="heart_outline.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1263"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,13,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="13"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-59.515992"
+     inkscape:cy="18.795463"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path851-6"
+       style="fill:#000000;fill-opacity:1;stroke-width:12.9858;stop-color:#000000"
+       transform="translate(1.9062465e-8,1.9639193)"
+       d="m 211.97852,38.017578 c -17.06822,0.03087 -41.68278,6.755056 -54.09375,19.166016 -8.77328,8.772037 -6.99626,8.772037 -15.76954,0 C 129.70424,44.7726 105.06924,38.061404 88.007812,38.023438 82.321117,38.010783 76.593379,38.74142 70.941406,40.255859 48.336439,46.312831 30.752301,63.896971 24.695312,86.501953 18.638448,109.1065 25.07508,133.12781 41.623047,149.67578 L 150,258.05469 258.37695,149.67578 c 16.54797,-16.54797 22.9846,-40.56928 16.92774,-63.173827 -6.05699,-22.60498 -23.64114,-40.18913 -46.2461,-46.246094 -5.65113,-1.514213 -11.39067,-2.24857 -17.08007,-2.238281 z M 25.737595,163.59725 C 3.540255,141.39991 -5.1287973,109.04659 2.995985,78.724457 11.120782,48.402309 34.805083,24.71802 65.127235,16.593239 95.449355,8.4684647 127.80267,17.137513 150,39.334839 m 0,0 c 22.19734,-22.197314 54.55064,-30.8663533 84.87275,-22.74158 30.32215,8.124774 54.00646,31.809055 62.13126,62.131198 8.12478,30.322133 -0.54427,62.675453 -22.74161,84.872793 m -248.524805,0 L 150,39.334839 274.2624,163.59725 159.19239,278.66729 a 12.999997,12.999997 0 0 1 -18.38478,0 z" />
+  </g>
+</svg>

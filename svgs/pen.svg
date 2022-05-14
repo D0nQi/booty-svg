@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="pen.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect849"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,5,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,15,0,1 @ F,0,0,1,0,15,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="-12.874517"
+     inkscape:cy="155.98474"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid836" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path834"
+       style="fill:#000000;fill-opacity:1;stroke-width:13.037;stop-color:#000000"
+       inkscape:transform-center-x="-7.9549491"
+       d="m 10.936683,233.04644 -9.8499223,57.6924 a 7.0833331,7.0833331 45 0 0 8.1743995,8.1744 l 57.6923988,-9.84993 a 15.709084,15.709084 152.65561 0 0 8.464216,-4.37701 L 248.65894,111.44514 188.55486,51.341065 15.313699,224.58223 a 15.709084,15.709084 117.34439 0 0 -4.377016,8.46421 z M 202.697,37.19893 l 60.10408,60.104075 31.8198,-31.819807 a 15.000002,15.000002 89.999997 0 0 0,-21.213205 L 255.73001,5.3791253 a 15,15 1.5292137e-6 0 0 -21.2132,-6e-7 z"
+       inkscape:transform-center-y="-7.954951"
+       inkscape:path-effect="#path-effect849"
+       inkscape:original-d="M 11.778165,228.11776 -0.59620407,300.5962 71.882241,288.22183 248.65894,111.44514 188.55486,51.341065 Z M 202.697,37.19893 l 60.10408,60.104075 42.4264,-42.42641 -60.10407,-60.1040716 z" />
+  </g>
+</svg>

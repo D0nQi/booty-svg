@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="copy.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path889"
+       style="fill:#000000;fill-opacity:1;stroke-width:12.0249;stop-color:#000000"
+       inkscape:transform-center-x="-4.9672522"
+       inkscape:transform-center-y="4.5494089"
+       d="m 230.05,0 52,52 h -40 a 12,12 0 0 1 -12,-12 z m -105.6,0 c -6.648,0 -12,5.351999 -12,12 v 216 c 0,6.648 5.352,12 12,12 h 145.6 c 6.648,0 12,-5.352 12,-12 V 68 h -56 a 12,12 0 0 1 -12,-12 V 0 Z m -91.5,60 c -8.309999,0 -15,6.689999 -15,15 v 210 c 0,8.31 6.690001,15 15,15 h 139.59961 c 8.31,0 15,-6.69 15,-15 V 260 H 127.35625 C 108.38701,260 92.496875,244.10987 92.496875,225.14062 V 60 Z" />
+  </g>
+</svg>
