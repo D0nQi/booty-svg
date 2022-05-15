@@ -8,22 +8,22 @@ You can use the demo/demo.html or https://htmlpreview.github.io/?https://github.
 
 ### Font
 Include the booty-svg.css to your header:
-```
-<link rel=\"stylesheet\" href=\"css/booty-svg-font.css\" type=\"text/css\">
+```HTML
+<link rel="stylesheet" href="css/booty-svg-font.css" type="text/css">
 ```
 To display, for example a copy icon, add a booty-svg element in your code:
-```
+```HTML
 <i class="booty-svg font-copy"></i> 
 ```
 To scale the Icon you can use the font-size style attribute.
 
 ### SVGs
 Include the booty-svg.css to your header:
-```
-<link rel=\"stylesheet\" href=\"css/booty-svg.css\" type=\"text/css\">
+```HTML
+<link rel="stylesheet" href="css/booty-svg.css" type="text/css">
 ```
 To display, for example a copy icon, add a booty-svg element in your code:
-```
+```HTML
 <i class="booty-svg svg-copy"></i> 
 ```
 To scale the Icon you can use the width/height style attribute.
