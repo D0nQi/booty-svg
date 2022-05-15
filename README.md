@@ -4,7 +4,7 @@ Booty-svg is free icon library based on SVG pictures. You can either use SVGs or
 ## Usage
 Keep the directory structure untouched!
 
-You can use the demo/demo.html or https://htmlpreview.github.io/?https://github.com/D0nQ/booty-svg/blob/master/demo/demo.html to find an icon, click it and copy its html code.
+You can use the demo/demo.html or https://htmlpreview.github.io/?https://github.com/D0nQi/booty-svg/blob/master/demo/demo.html to find an icon, click it and copy its html code.
 
 ### Font
 Include the booty-svg.css to your header:
