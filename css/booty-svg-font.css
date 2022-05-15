@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'booty-svg';
-  src:  url('../fonts/booty-svg.eot?ehh5yo');
-  src:  url('../fonts/booty-svg.eot?ehh5yo#iefix') format('embedded-opentype'),
-    url('../fonts/booty-svg.ttf?ehh5yo') format('truetype'),
-    url('../fonts/booty-svg.woff?ehh5yo') format('woff'),
-    url('../fonts/booty-svg.svg?ehh5yo#booty-svg') format('svg');
+  src:  url('../fonts/booty-svg.eot?qlesnd');
+  src:  url('../fonts/booty-svg.eot?qlesnd#iefix') format('embedded-opentype'),
+    url('../fonts/booty-svg.ttf?qlesnd') format('truetype'),
+    url('../fonts/booty-svg.woff?qlesnd') format('woff'),
+    url('../fonts/booty-svg.svg?qlesnd#booty-svg') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -29,6 +29,24 @@
   vertical-align: middle;
 }
 
+.font-hashtag:before {
+  content: "\e904";
+}
+.font-at:before {
+  content: "\e905";
+}
+.font-linkedin:before {
+  content: "\e906";
+}
+.font-list:before {
+  content: "\e9c3";
+}
+.font-file-certificate:before {
+  content: "\e9c5";
+}
+.font-ribbon:before {
+  content: "\e9c6";
+}
 .font-discord:before {
   content: "\e900";
 }

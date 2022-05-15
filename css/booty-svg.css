@@ -486,6 +486,10 @@
     -webkit-mask-image: url("../svgs/envelope-open.svg");
     mask-image: url("../svgs/envelope-open.svg");
 }
+.svg-file-certificate {
+    -webkit-mask-image: url("../svgs/file-certificate.svg");
+    mask-image: url("../svgs/file-certificate.svg");
+}
 .svg-film {
     -webkit-mask-image: url("../svgs/film.svg");
     mask-image: url("../svgs/film.svg");
@@ -642,6 +646,10 @@
     -webkit-mask-image: url("../svgs/link-external.svg");
     mask-image: url("../svgs/link-external.svg");
 }
+.svg-list {
+    -webkit-mask-image: url("../svgs/list.svg");
+    mask-image: url("../svgs/list.svg");
+}
 .svg-location-pin {
     -webkit-mask-image: url("../svgs/location-pin.svg");
     mask-image: url("../svgs/location-pin.svg");
@@ -685,6 +693,10 @@
 .svg-plus {
     -webkit-mask-image: url("../svgs/plus.svg");
     mask-image: url("../svgs/plus.svg");
+}
+.svg-ribbon {
+    -webkit-mask-image: url("../svgs/ribbon.svg");
+    mask-image: url("../svgs/ribbon.svg");
 }
 .svg-scissors {
     -webkit-mask-image: url("../svgs/scissors.svg");
@@ -921,6 +933,10 @@
 .svg-instagram {
     -webkit-mask-image: url("../svgs/brands/instagram.svg");
     mask-image: url("../svgs/brands/instagram.svg");
+}
+.svg-linkedin {
+    -webkit-mask-image: url("../svgs/brands/linkedin.svg");
+    mask-image: url("../svgs/brands/linkedin.svg");
 }
 .svg-mastodon {
     -webkit-mask-image: url("../svgs/brands/mastodon.svg");
